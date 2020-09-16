@@ -4,4 +4,4 @@ My name is Moritz and I'm a JavaScript developer based in Hamburg, Germany. I us
 
 ![Follow me on Twitter](https://img.shields.io/twitter/follow/MoStueck?style=social)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=preya&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=preya&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
